@@ -1,0 +1,27 @@
+{
+    "name": "Untitled",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "TETNIS": "github:orangesandapple/tetnis#e7a791dcc3ab3fdcb0ea30c3a346c251eeba8ac5"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.12.56",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
